@@ -1,0 +1,742 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <atom:link href="https://www.itxy.tech/vue.github.io/rss.xml" rel="self" type="application/rss+xml"/>
+    <title>XingYu'blog</title>
+    <link>https://www.itxy.tech/vue.github.io/</link>
+    <description>记录与回顾</description>
+    <language>en-US</language>
+    <pubDate>Fri, 27 Aug 2021 10:53:12 GMT</pubDate>
+    <lastBuildDate>Fri, 27 Aug 2021 10:53:12 GMT</lastBuildDate>
+    <generator>@mr-hope/vuepress-plugin-feed</generator>
+    <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+    <copyright>Copyright by XingYu</copyright>
+    <item>
+      <title>友情链接</title>
+      <link>https://www.itxy.tech/vue.github.io/friends/</link>
+      <guid isPermaLink="false">/friends/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">友情链接</source>
+      <pubDate>Wed, 25 Dec 2019 14:27:01 GMT</pubDate>
+      <content:encoded><![CDATA[
+<p>::: cardList</p>
+<div><pre><code><span>-</span> <span>name</span><span>:</span> 麋鹿鲁哟
+  <span>desc</span><span>:</span> 大道至简，知易行难
+  <span>avatar</span><span>:</span> https<span>:</span>//cdn.jsdelivr.net/gh/xugaoyi/image_store/blog/20200122153807.jpg <span># 可选</span>
+  <span>link</span><span>:</span> https<span>:</span>//www.cnblogs.com/miluluyo/ <span># 可选</span>
+  <span>bgColor</span><span>:</span> <span>'#CBEAFA'</span> <span># 可选，默认var(--bodyBg)。颜色值有#号时请添加单引号</span>
+  <span>textColor</span><span>:</span> <span>'#6854A1'</span> <span># 可选，默认var(--textColor)</span>
+<span>-</span> <span>name</span><span>:</span> XAOXUU
+  <span>desc</span><span>:</span> <span>'#IOS #Volantis主题作者'</span>
+  <span>avatar</span><span>:</span> https<span>:</span>//cdn.jsdelivr.net/gh/xaoxuu/assets@master/avatar/avatar.png
+  <span>link</span><span>:</span> https<span>:</span>//xaoxuu.com
+  <span>bgColor</span><span>:</span> <span>'#B9D59C'</span>
+  <span>textColor</span><span>:</span> <span>'#3B551F'</span>
+<span>-</span> <span>name</span><span>:</span> lookroot的个人空间
+  <span>desc</span><span>:</span> 寻求理想和显示的平衡
+  <span>avatar</span><span>:</span> https<span>:</span>//www.lookroot.cn/logo.png
+  <span>link</span><span>:</span> https<span>:</span>//www.lookroot.cn/
+  <span>bgColor</span><span>:</span> <span>'#B7DBFF'</span>
+  <span>textColor</span><span>:</span> <span>'#294D71'</span>
+<span>-</span> <span>name</span><span>:</span> 平凡的你我
+  <span>desc</span><span>:</span> 理想成为大牛的&lt;br/<span>></span>小陈同学
+  <span>avatar</span><span>:</span> https<span>:</span>//reinness.com/static/avatar.png
+  <span>link</span><span>:</span> https<span>:</span>//reinness.com
+  <span>bgColor</span><span>:</span> <span>'#FFE5B4'</span>
+  <span>textColor</span><span>:</span> <span>'#A05F2C'</span>
+<span>-</span> <span>name</span><span>:</span> znote
+  <span>desc</span><span>:</span> 荷尽已无擎雨盖，&lt;br/<span>></span>菊残犹有傲霜枝。
+  <span>avatar</span><span>:</span> https<span>:</span>//zpj80231.gitee.io/znote/vuepress/head<span>-</span>fish.jpg
+  <span>link</span><span>:</span> https<span>:</span>//zpj80231.gitee.io/znote/
+  <span>bgColor</span><span>:</span> <span>'#FCE5BF'</span>
+  <span>textColor</span><span>:</span> <span>'#7B2532'</span>
+<span>-</span> <span>name</span><span>:</span> 全栈软件开发直通车
+  <span>desc</span><span>:</span> 全栈软件开发技术博客，&lt;br/<span>></span>从小白到大神<span>!</span>
+  <span>avatar</span><span>:</span> https<span>:</span>//gitee.com/wangshibiao/blog_picBed2/raw/master/images/20200806151030.png
+  <span>link</span><span>:</span> https<span>:</span>//sofineday.com
+  <span>bgColor</span><span>:</span> <span>'#FBEBEC'</span>
+  <span>textColor</span><span>:</span> <span>'#603420'</span>
+<span>-</span> <span>name</span><span>:</span> 易良同学的博客
+  <span>desc</span><span>:</span> 正在努力！
+  <span>avatar</span><span>:</span> https<span>:</span>//yiliang.site/assets/images/avatar.jpeg
+  <span>link</span><span>:</span> https<span>:</span>//yiliang.site
+  <span>bgColor</span><span>:</span> <span>'#FFEFE2'</span>
+  <span>textColor</span><span>:</span> <span>'#A05F2C'</span>
+<span>-</span> <span>name</span><span>:</span> 永远的救赎者
+  <span>desc</span><span>:</span> 知者减半，省者全无。
+  <span>avatar</span><span>:</span> https<span>:</span>//i.loli.net/2020/08/10/PkQMGL6pATW1vBg.jpg
+  <span>link</span><span>:</span> http<span>:</span>//www.yuanchengcheng.vip/
+  <span>bgColor</span><span>:</span> <span>'#FBEBEC'</span>
+  <span>textColor</span><span>:</span> <span>'#603420'</span>
+<span>-</span> <span>name</span><span>:</span> 辰旭博客
+  <span>desc</span><span>:</span> 凤鸣初阳，百鸟朝凰
+  <span>avatar</span><span>:</span> https<span>:</span>//s1.ax1x.com/2020/08/09/aoLTDx.png
+  <span>link</span><span>:</span> https<span>:</span>//kareny.cn
+  <span>bgColor</span><span>:</span> <span>'#FFCEDE'</span>
+  <span>textColor</span><span>:</span> <span>'#621529'</span>
+<span>-</span> <span>name</span><span>:</span> JokerM's Palace
+  <span>desc</span><span>:</span> Take your heart
+  <span>avatar</span><span>:</span> https<span>:</span>//cdn.jokerm.com/<span>?</span>/imgcdn/logo.png
+  <span>link</span><span>:</span> https<span>:</span>//jokerm.com/
+<span>-</span> <span>name</span><span>:</span> Saul.J.Wu
+  <span>desc</span><span>:</span> 立身之本，不在高低。
+  <span>avatar</span><span>:</span> https<span>:</span>//raw.githubusercontent.com/SaulJWu/images/main/20201114225611.jpg
+  <span>link</span><span>:</span> https<span>:</span>//sauljwu.github.io/
+<span>-</span> <span>name</span><span>:</span> 杨庭培的博客
+  <span>desc</span><span>:</span> 太平世界，环球同此凉热。
+  <span>avatar</span><span>:</span> https<span>:</span>//www.ytpblog.com/img/favicon.ico
+  <span>link</span><span>:</span> https<span>:</span>//www.ytpblog.com/
+<span>-</span> <span>name</span><span>:</span> Lake's blog
+  <span>desc</span><span>:</span> 不积跬步，无以至千里；不积小流，无以成江海。
+  <span>avatar</span><span>:</span> https<span>:</span>//cdn.jsdelivr.net/gh/taixingyiji/image_store@main/blog/logo/img.png
+  <span>link</span><span>:</span> https<span>:</span>//taixingyiji.com/
+<span>-</span> <span>name</span><span>:</span> Cubik的小站 <span># 昵称</span>
+  <span>desc</span><span>:</span> RECOMMENDED BY DR.CREATIVE <span># 介绍</span>
+  <span>avatar</span><span>:</span> https<span>:</span>//cdn.jsdelivr.net/gh/Cubik65536/cubik<span>-</span>favicons@main/CubikLogo.png <span># 头像</span>
+  <span>link</span><span>:</span> https<span>:</span>//www.cubik65536.top/  <span># 链接</span>
+<span>-</span> <span>name</span><span>:</span> x·π
+  <span>desc</span><span>:</span> 为开发者量身制作的技术博客和知识库管理平台。
+  <span>avatar</span><span>:</span> https<span>:</span>//cdn.jsdelivr.net/gh/Ezuy<span>-</span>Lee/RainzeDrawingBed/media/logo.png
+  <span>link</span><span>:</span> https<span>:</span>//ezuy<span>-</span>lee.github.io/xpai/
+<span>-</span> <span>name</span><span>:</span> 眼里有光
+  <span>desc</span><span>:</span> 道阻且长，行则将至
+  <span>avatar</span><span>:</span> https<span>:</span>//icooloop.gitee.io/img/logo.jpg
+  <span>link</span><span>:</span> https<span>:</span>//icooloop.gitee.io/
+<span>-</span> <span>name</span><span>:</span> Heo
+  <span>desc</span><span>:</span> 爱折腾的设计师
+  <span>link</span><span>:</span> https<span>:</span>//blog.zhheo.com/
+  <span>avatar</span><span>:</span> https<span>:</span>//blog.zhheo.com/img/avatar.png
+<span>-</span> <span>name</span><span>:</span> Chuyuxuan
+  <span>desc</span><span>:</span> 临渊羡鱼，不如退而结网
+  <span>link</span><span>:</span> https<span>:</span>//blog.chuyuxuan.top/
+  <span>avatar</span><span>:</span> http<span>:</span>//blog.chuyuxuan.top/img/avatar1.jpg
+<span>-</span> <span>name</span><span>:</span> 全栈杂货站
+  <span>desc</span><span>:</span> 千里万里杂货站里，天青色等烟雨，而我在等你。
+  <span>avatar</span><span>:</span> http<span>:</span>//cdn.tea<span>-</span>culture.top/tech/images/avatar/3.jpg
+  <span>link</span><span>:</span> http<span>:</span>//tech.tea<span>-</span>culture.top/
+<span>-</span> <span>name</span><span>:</span> 小鱼博客
+  <span>desc</span><span>:</span> 总是半途而废的废柴
+  <span>avatar</span><span>:</span> https<span>:</span>//cdn.jsdelivr.net/gh/xiaoyu<span>-</span>666/image_store/blog/minion.png
+  <span>link</span><span>:</span> https<span>:</span>//xiaoyu<span>-</span>666.github.io/
+<span>-</span> <span>name</span><span>:</span> 大胡子
+  <span>desc</span><span>:</span> 记录你我，分享精彩。
+  <span>avatar</span><span>:</span> https<span>:</span>//photo.jakehu.cn/favicon.png
+  <span>link</span><span>:</span> https<span>:</span>//www.jakehu.cn
+<span>-</span> <span>name</span><span>:</span> 嘟先生学WebGL
+  <span>desc</span><span>:</span> 流水不争先，争的是滔滔不绝。
+  <span>avatar</span><span>:</span> https<span>:</span>//joy1412.cn/img/dudu.jpeg
+  <span>link</span><span>:</span> https<span>:</span>//joy1412.cn
+<span>-</span> <span>name</span><span>:</span> 嶋屿麋鹿
+  <span>desc</span><span>:</span> 小鹿的知识库
+  <span>avatar</span><span>:</span> https<span>:</span>//www.fongloo.com/img/EB<span>-</span>logo.png
+  <span>link</span><span>:</span> https<span>:</span>//www.fongloo.com/
+<span>-</span> <span>name</span><span>:</span> <span>'@小右_'</span>
+  <span>desc</span><span>:</span> 学而不厌 不耻下问
+  <span>avatar</span><span>:</span> https<span>:</span>//lordblog.cn/upload/2021/05/logo%20(4)<span>-</span>742f1f7e15db44a1b3140035104ea239.png
+  <span>link</span><span>:</span> https<span>:</span>//lordblog.cn/
+<span>-</span> <span>name</span><span>:</span> 途中的树
+  <span>desc</span><span>:</span> 走出自己的傲慢，承认自己的局限。
+  <span>avatar</span><span>:</span> https<span>:</span>//zkpeace.com/blog/img/avatar.jpg
+  <span>link</span><span>:</span> https<span>:</span>//zkpeace.com/
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br><span>103</span><br><span>104</span><br><span>105</span><br><span>106</span><br><span>107</span><br><span>108</span><br><span>109</span><br><span>110</span><br><span>111</span><br><span>112</span><br><span>113</span><br><span>114</span><br><span>115</span><br><span>116</span><br><span>117</span><br><span>118</span><br></div></div><p>:::</p>
+<h3 id="友链申请"> 友链申请</h3>
+<p>与我<a href="/about/#联系"> 联系 </a>或者 在本页面评论区留言您的友链信息，格式：(点击代码块右上角一键复制)</p>
+<div><pre><code><span>-</span> <span>name</span><span>:</span> XingYu's blog <span># 昵称</span>
+  <span>desc</span><span>:</span> 记录与回顾。 <span># 介绍</span>
+  <span>avatar</span><span>:</span> https<span>:</span>//tc.itxy.tech/2021/08/26/f94275153eab982669659f8079bbdab0.png <span># 头像</span>
+  <span>link</span><span>:</span> https<span>:</span>//itxy.tech/  <span># 链接</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>申请前记得先添加本站哦~</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>关于</title>
+      <link>https://www.itxy.tech/vue.github.io/about/</link>
+      <guid isPermaLink="false">/about/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">关于</source>
+      <pubDate>Fri, 25 Dec 2020 14:27:01 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="📚blog"> 📚Blog</h2>
+<p>本人博客命途多舛，历经多次变迁，常见的博客系统如：emlog、wordpress、typecho、hexo、halo都使用过数月的时间，但最终因开始学习vue的缘故而选定了本套vue博客系统。本博客分类暂定位：<a href="/informalessay/">随笔</a>、<a href="/study/">学习</a>、<a href="/technology/">技术</a>、<a href="/financial/">金融</a>、<a href="/read/">阅读</a>。你可以通过<a href="mailto:mail@itxy.tech">mail@itxy.tech</a>联系我。另外你可以在此和我哦交换<a href="/friends/">友链</a> ( •̀ ω •́ )✧</p>
+<div><p>Tips</p>
+<p>文章内容仅是我个人的小总结，资历尚浅，如有误还请指正。</p>
+</div>
+<p><a href="/article//">文章归档</a></p>
+
+
+
+
+
+
+
+
+<h2 id="🥳me"> 🥳Me</h2>
+<p>爱折腾的00后，金融专业学生，平常没事会学一学技术看一看书。技术的学习多而杂。包括但不限于：htmlcss、JavaScript、vue、Java、python、matlab。</p>
+<h3 id="技能"> 技能</h3>
+<ul>
+<li>金融</li>
+<li>python</li>
+<li>前端
+本人↓↓↓</li>
+</ul>
+<img src='https://tc.itxy.tech/2021/08/26/f94275153eab982669659f8079bbdab0.png' alt='本人照片' style="width:106px;"> 
+
+
+
+
+
+
+<h2 id="联系"> ✉️ 联系</h2>
+<ul>
+<li>QQ: <a :href="qqUrl" class='qq'>3384842079</a></li>
+<li>Email:  <a href="mailto:mail@itxy.tech">mail@itxy.tech</a></li>
+<li>GitHub: <a href="https://github.com/amrxingyu" target="_blank" rel="noopener noreferrer">https://github.com/amrxingyu</a></li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>分类</title>
+      <link>https://www.itxy.tech/vue.github.io/categories/</link>
+      <guid isPermaLink="false">/categories/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">分类</source>
+    </item>
+    <item>
+      <title>归档</title>
+      <link>https://www.itxy.tech/vue.github.io/archives/</link>
+      <guid isPermaLink="false">/archives/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">归档</source>
+    </item>
+    <item>
+      <title>友链</title>
+      <link>https://www.itxy.tech/vue.github.io/home/</link>
+      <guid>https://www.itxy.tech/vue.github.io/home/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">友链</source>
+      <content:encoded><![CDATA[<h3 id="友链申请"> 友链申请</h3>
+<p>与我<a href="/about/#联系"> 联系 </a>或者 在本页面评论区留言您的友链信息，格式：(点击代码块右上角一键复制)</p>
+<div><pre><code><span>-</span> <span>name</span><span>:</span> XingYu's blog <span># 昵称</span>
+  <span>desc</span><span>:</span> 记录与回顾。 <span># 介绍</span>
+  <span>avatar</span><span>:</span> https<span>:</span>//tc.itxy.tech/2021/08/26/f94275153eab982669659f8079bbdab0.png <span># 头像</span>
+  <span>link</span><span>:</span> https<span>:</span>//itxy.tech/  <span># 链接</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>申请前记得先添加本站哦~</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>标签</title>
+      <link>https://www.itxy.tech/vue.github.io/tags/</link>
+      <guid isPermaLink="false">/tags/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">标签</source>
+    </item>
+    <item>
+      <title>博客主页</title>
+      <link>https://www.itxy.tech/vue.github.io/</link>
+      <guid>https://www.itxy.tech/vue.github.io/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">博客主页</source>
+    </item>
+    <item>
+      <title>有效训练你的研究能力</title>
+      <link>https://www.itxy.tech/vue.github.io/%E5%AD%A6%E4%B9%A0/01.%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B/01.%E6%9C%89%E6%95%88%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E7%A0%94%E7%A9%B6%E8%83%BD%E5%8A%9B/</link>
+      <guid>https://www.itxy.tech/vue.github.io/%E5%AD%A6%E4%B9%A0/01.%E5%9F%BA%E7%A1%80%E8%83%BD%E5%8A%9B/01.%E6%9C%89%E6%95%88%E8%AE%AD%E7%BB%83%E4%BD%A0%E7%9A%84%E7%A0%94%E7%A9%B6%E8%83%BD%E5%8A%9B/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">有效训练你的研究能力</source>
+      <pubDate>Thu, 05 Aug 2021 16:21:31 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="_1"> 1</h1>
+<p>研究就是检查，一方面为了纠错，另一方面更好。</p>
+<p>研究的本质就是更好。模仿是自然主义学习中的重要手段，而此最多只能和对象一样，想要超越必须研究。</p>
+<p>研究没有前人的经验。学习和研究无高下之分，但绝对是两回事。</p>
+<p>训练研究能力的第一步：唤醒三个意识（作品、目标、局外意识）</p>
+<p>作品意识：研究的驱动，研究的主动性，开始研究前必有强烈的作品意识。研究精神的起点。</p>
+<p>目标意识：没有清晰的目标意识，很可能会跑偏。</p>
+<p>局外意识：恰用上帝意识。</p>
+<p>清晰认识研究所需付出的成本，精力、时间、试错。</p>
+<h1 id="_2"> <strong>#2</strong></h1>
+<p>收集资料，足量和节制。</p>
+<p>主动性宽泛性达到足量。</p>
+<p>达到节制：不要过度沉溺于文本（最大害处是跑题）、对人的研究要去粉丝化兼顾负面评价、避免情绪化。</p>
+<p>优秀的研究者总是被评价为无情的人</p>
+<p>足量与节制两者绝不矛盾，足量基础上的节制才能帮助更好的研究。</p>
+<h1 id="_3"> <strong>#3</strong></h1>
+<p>如何进行文本的整理和论证，最重要的是批判性思维。这种思维普遍被确立为教育的目标。</p>
+<p>用批评性思维处理资料我们需要两个方向：抓本质（找不同）、找规律（找相似）。</p>
+<p>通过对比探求事物的本质。研究不是把文本从头到尾看一遍，而且还要通过此探究事务的本质。↓</p>
+<p>如何做？局外意识。</p>
+<p>通过类比，找相似食物的规律。求相似是为了提高效率。</p>
+<h1 id="_4"> <strong>#4</strong></h1>
+<p>及时的给自己反馈，要有学会后教他人的想法。</p>
+<p>研究能力的提升需要输出。研究的输出：研究结果成果化，写出文章。把自己表达的观念和言论严谨的表达出来。</p>
+<p>输出与表达要学术性要求自己，足够系统，文本支持，严密的逻辑论证。</p>
+<p>missing法则完全穷尽，</p>
+<p>研究达不到量，只会只言片语则会</p>
+<p>学术性需要文本支持，可以有自己的判断，但是不难仅靠想象，没学术性很难说服别人。</p>
+<p>研究的关键是质疑，就算一个文本信息量足够多，但是仍然需要质疑。</p>
+<p>（大象公会）</p>
+<p>研究结论成果化后需要导师，导师是非常重要的，好的导师既能碰撞也能提升。</p>
+<p>研究带来了新发现，最好输出为成果。</p>
+<h1 id="_5"> <strong>#5</strong></h1>
+<p>学术性研究。</p>
+<p>学术论文的写作要有正确性、可靠性。</p>
+<p>少不了像导师等人请教。</p>
+<p>论文后的参考书目很重要，凭自己的主观进行论述是不行的。学术研究不允许主观性表达。</p>
+<p>学术性论文中不能出现我，我认为。</p>
+<p>论文写作考虑可持续性。</p>
+<p>普适性。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>网站</title>
+      <link>https://www.itxy.tech/vue.github.io/pages/beb6c0bd8a66cea6/</link>
+      <guid isPermaLink="false">/pages/beb6c0bd8a66cea6/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">网站</source>
+      <description>&amp;lt;h1 id=&amp;quot;个人收藏夹&amp;quot;&amp;gt; 个人收藏夹&amp;lt;/h1&amp;gt;
+&amp;lt;h2 id=&amp;quot;大佬收藏夹&amp;quot;&amp;gt; 大佬收藏夹&amp;lt;/h2&amp;gt;
+&amp;lt;ul&amp;gt;
+&amp;lt;li&amp;gt;&amp;lt;a href=&amp;quot;https://panjiachen.github.io/awesome-bookmarks/&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;panjiachen&amp;lt;/a&amp;gt;&amp;lt;/li&amp;gt;
+&amp;lt;/ul&amp;gt;
+</description>
+      <pubDate>Sun, 19 Apr 2020 11:33:04 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="个人收藏夹"> 个人收藏夹</h1>
+<h2 id="大佬收藏夹"> 大佬收藏夹</h2>
+<ul>
+<li><a href="https://panjiachen.github.io/awesome-bookmarks/" target="_blank" rel="noopener noreferrer">panjiachen</a></li>
+</ul>
+
+<h2 id="文档"> 文档</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web" target="_blank" rel="noopener noreferrer">MDN</a> | <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects" target="_blank" rel="noopener noreferrer">MDN-JS标准内置对象</a> Web技术权威文档</li>
+<li><a href="https://zh.javascript.info" target="_blank" rel="noopener noreferrer">现代JavaScript教程</a> 以最新标准为基准的JS教程</li>
+<li><a href="https://wangdoc.com/javascript/" target="_blank" rel="noopener noreferrer">ES5教程</a> 阮一峰的JS教程</li>
+<li><a href="http://es6.ruanyifeng.com/" target="_blank" rel="noopener noreferrer">ES6教程</a> 阮一峰的ES6教程</li>
+<li><a href="https://wangdoc.com/bash/" target="_blank" rel="noopener noreferrer">Bash 脚本教程</a> 阮一峰编写</li>
+<li><a href="https://www.ecma-international.org/" target="_blank" rel="noopener noreferrer">ECMA</a> ECMA官网</li>
+<li><a href="https://www.runoob.com/" target="_blank" rel="noopener noreferrer">菜鸟教程</a> 涵盖多种语言的初级教程</li>
+<li><a href="https://cloud.tencent.com/developer/devdocs" target="_blank" rel="noopener noreferrer">腾讯云开发者手册</a></li>
+</ul>
+<h2 id="社区"> 社区</h2>
+<ul>
+<li><a href="https://github.com/" target="_blank" rel="noopener noreferrer">Github</a> 程序员同性交友社区</li>
+<li><a href="https://juejin.im/" target="_blank" rel="noopener noreferrer">掘金</a> 一个帮助开发者成长的社区</li>
+<li><a href="https://www.jianshu.com/" target="_blank" rel="noopener noreferrer">简书</a> 有很多频道的创作社区</li>
+<li><a href="https://segmentfault.com/" target="_blank" rel="noopener noreferrer">思否</a> 解决技术问题的社区</li>
+<li><a href="https://stackoverflow.com/" target="_blank" rel="noopener noreferrer">stack overflow</a> 同上，外网的</li>
+<li><a href="https://www.infoq.cn/topic/Front-end" target="_blank" rel="noopener noreferrer">InfoQ</a></li>
+<li><a href="https://www.v2ex.com/" target="_blank" rel="noopener noreferrer">V2EX</a></li>
+<li><a href="https://mo.fish/main/home/hot" target="_blank" rel="noopener noreferrer">鱼塘热榜</a> 划水网站，收集了很多网站，当天热门文章</li>
+<li><a href="https://maliquankai.com/designnav/" target="_blank" rel="noopener noreferrer">码力全开资源库</a> 很全很强大，独立开发者/设计干货/优质利器/工具资源...</li>
+</ul>
+<h2 id="博客"> 博客</h2>
+<ul>
+<li><a href="http://www.ruanyifeng.com/blog/" target="_blank" rel="noopener noreferrer">阮一峰的网络日志</a></li>
+<li><a href="https://www.samanthaming.com/" target="_blank" rel="noopener noreferrer">samanthaming</a> 对前端小知识点的总结，并为每个知识点制作精美的小卡片。</li>
+</ul>
+<h2 id="电子书"> 电子书</h2>
+<ul>
+<li><a href="https://ebook.hep.com.cn/ebooks/h5/index.html" target="_blank" rel="noopener noreferrer">高教书苑</a> 高等教育出版社的书籍，包含多种学科。</li>
+<li><a href="http://www.yuanchengcheng.vip/books" target="_blank" rel="noopener noreferrer">前端电子书收集</a></li>
+<li><a href="https://sobooks.cc/" target="_blank" rel="noopener noreferrer">SoBooks</a> 免费的电子书资源网站</li>
+</ul>
+<h2 id="文章"> 文章</h2>
+<ul>
+<li><a href="https://juejin.im/post/5d4d0ec651882549594e7293" target="_blank" rel="noopener noreferrer">灵活运用CSS开发技巧</a></li>
+</ul>
+<h2 id="科学上网"> 科学上网</h2>
+<ul>
+<li>
+<p><a href="https://www.ggfwzs.com/" target="_blank" rel="noopener noreferrer">谷歌chrome商店访问助手</a></p>
+</li>
+<li>
+<p><a href="https://www.datacenterfarm.com/3635.html" target="_blank" rel="noopener noreferrer">谷歌云(GCP)一键搭建 V2Ray 让你畅快科学上网</a></p>
+</li>
+</ul>
+<h2 id="视频"> 视频</h2>
+<ul>
+<li><a href="https://www.imooc.com/" target="_blank" rel="noopener noreferrer">慕课网</a> 实战视频教程</li>
+<li><a href="https://www.miaov.com/" target="_blank" rel="noopener noreferrer">妙味课堂</a> 比较系统的前端入门视频教程</li>
+<li><a href="https://www.icourse163.org/" target="_blank" rel="noopener noreferrer">中国大学MOOC</a> 涵盖计算机、外语、心理学等专业免费课程</li>
+<li><a href="https://www.bilibili.com/" target="_blank" rel="noopener noreferrer">bilibili</a> B站，上面也有一些可供学习的免费视频</li>
+<li><a href="http://egghead.io" target="_blank" rel="noopener noreferrer">egghead</a> 质量还不错的短视频教程，外网</li>
+</ul>
+<h3 id="电视直播"> 电视直播</h3>
+<ul>
+<li><a href="http://ivi.bupt.edu.cn/" target="_blank" rel="noopener noreferrer">CCTV、卫视高清直播</a></li>
+</ul>
+<h2 id="github"> Github</h2>
+<ul>
+<li><a href="https://git.io/" target="_blank" rel="noopener noreferrer">github 短域名服务</a></li>
+<li><a href="https://shields.io/" target="_blank" rel="noopener noreferrer">shields</a> 徽章图标</li>
+<li><a href="https://wangchujiang.com/github-rank/index.html" target="_blank" rel="noopener noreferrer">followers 全球排名</a></li>
+<li><a href="https://star-history.t9t.io/" target="_blank" rel="noopener noreferrer">star-history</a> 展示一个项目 Stars 增长曲线</li>
+</ul>
+<h2 id="在线工具"> 在线工具</h2>
+<h3 id="开发"> 开发</h3>
+<ul>
+<li><a href="https://caniuse.com/" target="_blank" rel="noopener noreferrer">Can I use</a> 查看属性和方法的兼容性</li>
+<li><a href="https://30secondsofcode.org/" target="_blank" rel="noopener noreferrer">30 seconds of code</a> 收集了许多有用的代码小片段</li>
+</ul>
+<h3 id="代码编辑"> 代码编辑</h3>
+<ul>
+<li><a href="https://codepen.io" target="_blank" rel="noopener noreferrer">codepen</a> 在线代码编辑与演示</li>
+<li><a href="https://codesandbox.io" target="_blank" rel="noopener noreferrer">codesandbox</a> 内嵌VSCode的在线IDE</li>
+</ul>
+<h3 id="emoji表情"> Emoji表情</h3>
+<ul>
+<li><a href="https://emojipedia.org/" target="_blank" rel="noopener noreferrer">emoji表情</a></li>
+<li><a href="https://www.webfx.com/tools/emoji-cheat-sheet" target="_blank" rel="noopener noreferrer">emoji表情备忘录</a></li>
+<li><a href="https://github.com/carloscuesta/gitmoji" target="_blank" rel="noopener noreferrer">gitmoji</a> 通过 emoji 表达 git 的操作内容</li>
+</ul>
+<blockquote>
+<p>windows系统下按<kbd>Win</kbd>+<kbd>.</kbd>快速打开表情选择框</p>
+</blockquote>
+<h3 id="图片工具"> 图片工具</h3>
+<ul>
+<li><a href="https://tinypng.com" target="_blank" rel="noopener noreferrer">tinypng图片压缩</a> 压缩png很有用</li>
+<li><a href="https://squoosh.app/" target="_blank" rel="noopener noreferrer">Squoosh</a> 谷歌出品在线免费图片压缩工具</li>
+<li><a href="http://waifu2x.udp.jp/" target="_blank" rel="noopener noreferrer">waifu2x</a> 通过卷积网络放大图片</li>
+<li><a href="https://vectormagic.com/" target="_blank" rel="noopener noreferrer">vectormagic</a> 转换矢量图</li>
+<li><a href="https://www.vectorizer.io/" target="_blank" rel="noopener noreferrer">vectorizer</a> 真正的 png 转 svg 神器</li>
+<li><a href="https://photo.opencool.cn/" target="_blank" rel="noopener noreferrer">在线AI图片处理</a> 黑白修复、无损放大、动漫化、铅笔画等。</li>
+<li><a href="https://www.remove.bg/zh" target="_blank" rel="noopener noreferrer">remove</a> AI抠图</li>
+</ul>
+<h3 id="作图"> 作图</h3>
+<ul>
+<li><a href="https://www.processon.com/" target="_blank" rel="noopener noreferrer">processon在线作图</a> 流程图、思维导图、原型图等</li>
+<li><a href="https://naotu.baidu.com" target="_blank" rel="noopener noreferrer">百度脑图</a> 思维导图</li>
+</ul>
+<h3 id="css"> CSS</h3>
+<ul>
+<li><a href="http://css-tricks.neatbang.com/" target="_blank" rel="noopener noreferrer">CSS Tricks</a> CSS技巧收集与演示</li>
+<li><a href="https://neumorphism.io/" target="_blank" rel="noopener noreferrer">CSS生成器</a></li>
+<li><a href="https://www.colorzilla.com/gradient-editor/" target="_blank" rel="noopener noreferrer">CSS渐变生成器</a></li>
+<li><a href="https://www.html.cn/tool/css3Preview/Box-Shadow.html" target="_blank" rel="noopener noreferrer">CSS3-Box Shadow(阴影)</a></li>
+<li><a href="https://cubic-bezier.com" target="_blank" rel="noopener noreferrer">贝塞尔曲线生成器	</a></li>
+<li><a href="http://www.heropatterns.com/" target="_blank" rel="noopener noreferrer">花纹背景生成器</a></li>
+<li><a href="https://github.com/bansal-io/pattern.css" target="_blank" rel="noopener noreferrer">花纹背景-pattern.css</a></li>
+<li><a href="https://bennettfeely.com/ztext/" target="_blank" rel="noopener noreferrer">3D字体</a></li>
+<li><a href="https://css-tricks.com/" target="_blank" rel="noopener noreferrer">css-tricks</a> css技巧文章</li>
+<li><a href="https://lhammer.cn/You-need-to-know-css/#/zh-cn/" target="_blank" rel="noopener noreferrer">You-need-to-know-css</a> CSS的各种DEMO，很全</li>
+<li><a href="https://animista.net/" target="_blank" rel="noopener noreferrer">animista</a> CSS动画可视化工具</li>
+</ul>
+<h3 id="cdn加速"> CDN加速</h3>
+<ul>
+<li><a href="http://www.jsdelivr.com/" target="_blank" rel="noopener noreferrer">jsDelivr</a> 国外的一家优秀的公共 CDN 服务提供商</li>
+<li><a href="https://unpkg.com/" target="_blank" rel="noopener noreferrer">unpkg</a> cdn 服务</li>
+</ul>
+<h3 id="网站托管"> 网站托管</h3>
+<ul>
+<li><a href="https://vercel.com/" target="_blank" rel="noopener noreferrer">vercel</a> 好用的网站托管服务</li>
+</ul>
+<h3 id="正则"> 正则</h3>
+<ul>
+<li><a href="https://regex101.com/" target="_blank" rel="noopener noreferrer">正则可视化</a></li>
+</ul>
+<h3 id="其他"> 其他</h3>
+<ul>
+<li><a href="https://ipcmen.com/" target="_blank" rel="noopener noreferrer">Linux命令手册</a></li>
+<li><a href="https://carbon.now.sh/" target="_blank" rel="noopener noreferrer">代码图片生成器</a></li>
+</ul>
+<h2 id="设计"> 设计</h2>
+<ul>
+<li><a href="http://chuangzaoshi.com/" target="_blank" rel="noopener noreferrer">创造师导航</a></li>
+<li><a href="http://hao.uisdc.com/" target="_blank" rel="noopener noreferrer">设计师网址导航</a></li>
+<li><a href="https://www.remove.bg/zh" target="_blank" rel="noopener noreferrer">remove</a> AI抠图，抠图算法很厉害</li>
+<li><a href="https://www.manypixels.co/gallery/" target="_blank" rel="noopener noreferrer">Manypixels</a> 插画</li>
+<li><a href="https://undraw.co/illustrations" target="_blank" rel="noopener noreferrer">Undraw</a> 插画</li>
+<li><a href="https://uimovement.com/" target="_blank" rel="noopener noreferrer">uimovement</a> 能从这个网站找到不少动画交互的灵感</li>
+<li><a href="https://www.awwwards.com/" target="_blank" rel="noopener noreferrer">awwwards</a>是一个一个专门为设计精美的网站以及富有创意的网站颁奖的网站</li>
+<li><a href="https://dribbble.com/" target="_blank" rel="noopener noreferrer">dribbble</a> 经常能在上面找到很多有创意好看的 gif 或者图片</li>
+<li><a href="https://www.behance.net/" target="_blank" rel="noopener noreferrer">Bēhance</a> dribbble 是设计师的微博，Bēhance 是设计师的博客</li>
+<li><a href="https://logojoy.com/" target="_blank" rel="noopener noreferrer">Logojoy</a> 使用 ai 做 logo 的网站，做出来的 logo 质量还不错。</li>
+<li><a href="http://brandmark.io/" target="_blank" rel="noopener noreferrer">brandmark</a> 另一个在线制作 logo 网站</li>
+<li><a href="https://instantlogodesign.com/" target="_blank" rel="noopener noreferrer">instant</a> 又一个 logo 制作网站</li>
+<li><a href="https://www.namecheap.com/logo-maker/app/" target="_blank" rel="noopener noreferrer">namecheap</a>又一个 logo 制作网站</li>
+<li><a href="https://www.designevo.com/logo-maker/" target="_blank" rel="noopener noreferrer">logo-maker</a> 又一个 logo 制作网站 这个更简单点 就是选模板之后微调</li>
+<li><a href="https://coolors.co/" target="_blank" rel="noopener noreferrer">coolors</a> 帮你在线配色的网站 你能找到不少配色灵感</li>
+<li><a href="http://colorhunt.co/" target="_blank" rel="noopener noreferrer">colorhunt</a> 另一个配色网站</li>
+<li><a href="https://uigradients.com/#SummerDog" target="_blank" rel="noopener noreferrer">uigradients</a> 渐变色网站</li>
+<li><a href="https://www.designcap.com/" target="_blank" rel="noopener noreferrer">designcap</a> 在线海报设计</li>
+<li><a href="https://flatuicolors.com/" target="_blank" rel="noopener noreferrer">Flat UI 色表</a> Flat UI 色表</li>
+<li><a href="https://www.0to255.com/" target="_blank" rel="noopener noreferrer">0to255</a> 颜色梯度</li>
+<li><a href="https://github.com/mikolajdobrucki/ikonate" target="_blank" rel="noopener noreferrer">Ikonate</a> 提供免费的图标 icons</li>
+<li><a href="https://remixicon.com/" target="_blank" rel="noopener noreferrer">remixicon</a> 又一个提供免费图标 icons</li>
+<li><a href="https://github.com/feathericons/feather" target="_blank" rel="noopener noreferrer">feather</a> 免费的 icons</li>
+<li><a href="https://github.com/arcticicestudio/nord" target="_blank" rel="noopener noreferrer">nord </a> 北欧性冷淡风主题配色</li>
+<li><a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">Unsplash</a> 提供免费的高清图片</li>
+<li><a href="https://www.pexels.com/zh-cn/" target="_blank" rel="noopener noreferrer">Pexels</a> 提供免费的高清图片</li>
+<li><a href="https://colorkitty.com/" target="_blank" rel="noopener noreferrer">colorkitty</a> 从你的图片中提取配色</li>
+<li><a href="http://design.youzan.com/" target="_blank" rel="noopener noreferrer">design.youzan</a> 有赞设计原则</li>
+<li><a href="https://www.iconfont.cn/" target="_blank" rel="noopener noreferrer">iconfont</a> 阿里巴巴矢量图标库</li>
+<li><a href="https://undraw.co/illustrations" target="_blank" rel="noopener noreferrer">undraw</a> 免费的矢量插画</li>
+<li><a href="https://icomoon.io/" target="_blank" rel="noopener noreferrer">icomoon</a> 矢量图标库</li>
+<li><a href="http://cssicon.space/#/" target="_blank" rel="noopener noreferrer">cssicon</a> 所有的 icon 都是纯 css 画的 缺点：icon 不够多</li>
+<li><a href="http://apps.eky.hk/css-triangle-generator/" target="_blank" rel="noopener noreferrer">CSS triangle generator</a> 帮你快速用 css 做出三角形</li>
+<li><a href="http://bennettfeely.com/clippy/" target="_blank" rel="noopener noreferrer">clippy</a> 在线帮你使用 css clip-path 做出各种形状的图形</li>
+<li><a href="https://picsum.photos/" target="_blank" rel="noopener noreferrer">Lorem Picsum</a> 提供免费的占位图</li>
+<li><a href="https://www.canva.cn/" target="_blank" rel="noopener noreferrer">Canva 可画</a> 生成插画、封面、海报、头像等</li>
+</ul>
+<h3 id="图库"> 图库</h3>
+<ul>
+<li><a href="https://uigradients.com/" target="_blank" rel="noopener noreferrer">uigradients</a> 渐变色生成工具</li>
+<li><a href="https://www.freepik.com/" target="_blank" rel="noopener noreferrer">freepik</a> banner 图库</li>
+<li><a href="http://www.51yuansu.com/" target="_blank" rel="noopener noreferrer">觅元素</a>一天免费下载十张 psd</li>
+<li><a href="https://www.gaoding.com/" target="_blank" rel="noopener noreferrer">搞定设计</a> 可以抠图</li>
+<li><a href="https://www.vectorizer.io/" target="_blank" rel="noopener noreferrer">vectorizer</a> 真正的 png 转 svg 神器</li>
+<li><a href="https://www.zcool.com.cn/" target="_blank" rel="noopener noreferrer">站酷</a></li>
+<li><a href="https://huaban.com/" target="_blank" rel="noopener noreferrer">花瓣</a></li>
+<li><a href="https://huke88.com/" target="_blank" rel="noopener noreferrer">虎克</a> Ps 学习教程</li>
+<li><a href="https://themes.muffingroup.com/be/splash/" target="_blank" rel="noopener noreferrer">beTheme</a></li>
+<li><a href="https://www.ui.cn/" target="_blank" rel="noopener noreferrer">UI 中国</a></li>
+</ul>
+<h2 id="有趣"> 有趣</h2>
+<ul>
+<li><a href="https://fuun.fun/" target="_blank" rel="noopener noreferrer">奇趣网站收藏家</a> 收藏了很多有趣的网站</li>
+<li><a href="https://game.xugaoyi.com/" target="_blank" rel="noopener noreferrer">FC在线模拟器(小霸王游戏机)</a> 童年回忆</li>
+<li><a href="http://www.baidu-x.com/" target="_blank" rel="noopener noreferrer">帮你百度一下</a> 可以 <a href="http://www.baidu-x.com/?q=%E5%92%8C%E8%B0%90%E6%9C%89%E7%88%B1%E5%AF%8C%E5%BC%BA" target="_blank" rel="noopener noreferrer">点我测试一下</a>-</li>
+<li><a href="http://lmgtfy.com/" target="_blank" rel="noopener noreferrer">国际版</a> 同<code>帮我百度一下</code>-<a href="http://lmgtfy.com/?q=a" target="_blank" rel="noopener noreferrer">点我测试一下</a>-</li>
+<li><a href="https://alpha.wallhaven.cc/" target="_blank" rel="noopener noreferrer">wallhaven</a> 壁纸网站-</li>
+<li><a href="http://matthewrayfield.com/articles/animating-urls-with-javascript-and-emojis/#%F0%9F%8C%96" target="_blank" rel="noopener noreferrer">URL 地址播放 Emojis 动画</a> 在地址栏里面播放 emoji</li>
+<li><a href="https://cantunsee.space/" target="_blank" rel="noopener noreferrer">Can't Unsee</a> 强烈建议前端、客户端、UI 开发的同学玩下，检查一下自己对设计稿的敏感度怎么样</li>
+<li><a href="https://talk.swift.gg/" target="_blank" rel="noopener noreferrer">ggtalk</a> 平时一直在听的一个技术博客</li>
+<li><a href="https://github.com/Blankj/awesome-comment" target="_blank" rel="noopener noreferrer">awesome-comment</a> 里面收集了很多有趣的代码注释</li>
+<li><a href="https://www.text-image.com/index.html" target="_blank" rel="noopener noreferrer">text-img</a> 都将图片转化为 ascii 用来写注释</li>
+<li><a href="https://github.com/beizhedenglong/weird-fonts" target="_blank" rel="noopener noreferrer">weird-fonts</a> 将普通字母转化为 特殊 unicode</li>
+<li><a href="https://github.com/epidemian/snake" target="_blank" rel="noopener noreferrer">snake</a> 在地址栏里面玩贪吃蛇</li>
+<li><a href="https://github.com/yuanfux/zero-width-lib" target="_blank" rel="noopener noreferrer">zero-width-lib</a> 利用零宽度字符实现 隐形水印、加密信息分享、逃脱词匹配，很有创意</li>
+<li><a href="https://www.abbreviations.com/" target="_blank" rel="noopener noreferrer">abbreviations</a> 查看一个简写是什么意思的网站</li>
+<li><a href="https://magi.com/" target="_blank" rel="noopener noreferrer">magi</a> ai 搜索神器，超屌</li>
+<li><a href="https://zzkia.noddl.me:8020/" target="_blank" rel="noopener noreferrer">诺基亚短信图片生成器</a></li>
+</ul>
+<h2 id="交互"> 交互</h2>
+<ul>
+<li><a href="http://aliscued.lofter.com/" target="_blank" rel="noopener noreferrer">微交互</a> 里面收集了市面上很多很好的微交互例子 值得学习</li>
+<li><a href="http://littlebigdetails.com/" target="_blank" rel="noopener noreferrer">Little Big Details</a> 同上，一个国外微交互汇集网站</li>
+<li><a href="https://cruip.com/" target="_blank" rel="noopener noreferrer">cruip</a> 登录页的各种页面设计，可以免费下载模板</li>
+<li><a href="https://comixify.ii.pw.edu.pl/" target="_blank" rel="noopener noreferrer">Comixify</a> 一个波兰团队做了非常好玩的工具，可以把视频自动转成漫画，上图是他们提供的 demo，效果很棒。</li>
+<li><a href="https://github.com/bui/taiko-web" target="_blank" rel="noopener noreferrer">taiko-web</a> 太鼓达人网页版 只能说很 6</li>
+</ul>
+<h2 id="教程"> 教程</h2>
+<ul>
+<li><a href="https://egghead.io/courses/execute-npm-package-binaries-with-the-npx-package-runner" target="_blank" rel="noopener noreferrer">npx</a> 教你怎么合理的使用 npx</li>
+<li><a href="https://www.hacksplaining.com/lessons" target="_blank" rel="noopener noreferrer">hacksplaining</a> 网络安全学习网站</li>
+<li><a href="https://github.com/mcuking/mobile-web-best-practice" target="_blank" rel="noopener noreferrer">mobile-web-best-practice</a> 移动 web 最佳实践</li>
+</ul>
+<h2 id="产品"> 产品</h2>
+<ul>
+<li><a href="http://www.pmdaniu.com/" target="_blank" rel="noopener noreferrer">产品大牛</a> 什么有很多完整的产品原型可以借鉴</li>
+<li><a href="https://modao.cc/pricing" target="_blank" rel="noopener noreferrer">磨刀</a> 快速出 ui 原型</li>
+</ul>
+<h2 id="实用"> 实用</h2>
+<ul>
+<li><a href="https://browser-update.org/" target="_blank" rel="noopener noreferrer">browser-update</a> 浏览器版本更新提示插件</li>
+<li><a href="https://admin.typeform.com/signup" target="_blank" rel="noopener noreferrer">typeform</a> 一个国外的在线调查问卷网站</li>
+<li><a href="https://www.videofk.com/" target="_blank" rel="noopener noreferrer">VideoFk</a> VideoFk 视频在线解析下载</li>
+<li><a href="https://www.allhistory.com/" target="_blank" rel="noopener noreferrer">全历史</a> 历史内容聚合网站</li>
+<li><a href="https://www.uzer.me/" target="_blank" rel="noopener noreferrer">UzerMe</a> 云端办公工具</li>
+<li><a href="https://sobooks.cc/" target="_blank" rel="noopener noreferrer">SoBooks</a> 强大的电子书资源网站</li>
+<li><a href="https://www.gaoding.com/" target="_blank" rel="noopener noreferrer">稿定设计</a> 键式设计工具+智能抠图</li>
+<li><a href="https://dalipan.com/" target="_blank" rel="noopener noreferrer">大力盘</a> 百度网盘搜索</li>
+<li><a href="https://www.macbl.com/app/internet/enfi" target="_blank" rel="noopener noreferrer">ENFI 下载器</a> 不限速下载器</li>
+<li><a href="https://www.laihua.com/" target="_blank" rel="noopener noreferrer">来画视频</a> 像做 PPT 一样做短视频</li>
+<li><a href="https://www.arkie.cn/" target="_blank" rel="noopener noreferrer">Arkie 海报制作工具</a></li>
+<li><a href="http://www.ypppt.com/" target="_blank" rel="noopener noreferrer">优品 PPT</a></li>
+<li><a href="http://www.tretars.com/" target="_blank" rel="noopener noreferrer">比格 PPT</a></li>
+<li><a href="https://www.pexels.com/" target="_blank" rel="noopener noreferrer">高清免费图片</a></li>
+<li><a href="https://unsplash.com/" target="_blank" rel="noopener noreferrer">高清免费图片 2</a></li>
+</ul>
+<h2 id="talk"> Talk</h2>
+<ul>
+<li><a href="https://github.com/peerigon/talks" target="_blank" rel="noopener noreferrer">peerigon-talks</a> 收集了不少有意思的 talks</li>
+</ul>
+<h2 id="算法"> 算法</h2>
+<ul>
+<li><a href="https://github.com/azl397985856/leetcode" target="_blank" rel="noopener noreferrer">leetcode</a> 用 js 刷 leetcode</li>
+</ul>
+<h2 id="生活"> 生活</h2>
+<ul>
+<li><a href="https://www.ventusky.com/" target="_blank" rel="noopener noreferrer">Ventusky</a> 风雨气温图</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>投资学</title>
+      <link>https://www.itxy.tech/vue.github.io/%E9%87%91%E8%9E%8D/%E6%8A%95%E8%B5%84%E5%AD%A6/%E6%8A%95%E8%B5%84%E5%AD%A6/</link>
+      <guid>https://www.itxy.tech/vue.github.io/%E9%87%91%E8%9E%8D/%E6%8A%95%E8%B5%84%E5%AD%A6/%E6%8A%95%E8%B5%84%E5%AD%A6/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">投资学</source>
+      <pubDate>Fri, 27 Aug 2021 17:15:46 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="投资学"> 投资学</h1>
+<h1 id="第一章-投资与经济运行"> #第一章 投资与经济运行</h1>
+<h2 id="第一节-投资和经济运行间的关系"> 第一节 投资和经济运行间的关系</h2>
+<h3 id="投资与投资主体"> 投资与投资主体</h3>
+<p>投资的定义：为了（可能不确定的）将来的消费（价值）而牺牲现在一定的消费（价值）</p>
+<p>投资的特性：延迟消费、期望获得一定的收益、不确定性和风险</p>
+<p>投资学内容：市场和工具介绍、资产定价、资产组合管理。</p>
+<p>投资的主体：家庭（居民）、企业、政府。</p>
+<ul>
+<li>
+<p><strong>家庭收入</strong></p>
+<ul>
+<li>投资：直接投资、间接投资</li>
+<li>消费：购买商品或服务</li>
+</ul>
+</li>
+<li>
+<p><strong>企业收入</strong></p>
+<ul>
+<li>投资：研发投资，员工培训、建造厂房，购买设备、存货投资</li>
+<li>消费：工资福利</li>
+</ul>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled.png" alt="Untitled" /></p>
+</li>
+<li>
+<p>**政府收入：**税收、政府融资</p>
+<ul>
+<li>政府投资：直接、间接</li>
+<li>支付支出：医疗等社会保障、公务员支出</li>
+</ul>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 1.png" alt="Untitled" /></p>
+</li>
+<li>
+<p>投资的活动：</p>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 2.png" alt="Untitled" /></p>
+</li>
+</ul>
+<h3 id="单元投资与宏观经济运行的内部逻辑"> 单元投资与宏观经济运行的内部逻辑</h3>
+<ul>
+<li>虚拟经济：
+<ul>
+<li>家庭将资金配置金融资产</li>
+<li>企业将融资等所得资金配置金融资产</li>
+<li>资金闭环但没有创造任何商品或服务</li>
+</ul>
+</li>
+</ul>
+<p><strong>question：</strong></p>
+<ul>
+<li>
+<p>虚拟经济的繁荣是真正的、可持续的繁荣吗？</p>
+<ul>
+<li>金融泡沫会导致实体经济的萎缩，并可能最终造成经济的全面衰退</li>
+</ul>
+</li>
+<li>
+<p>是否应当限制虚拟经济的繁荣？</p>
+<ul>
+<li>虚拟经济的适度发展对实体经济具有辅助和推动作用</li>
+</ul>
+</li>
+<li>
+<p>托宾Q系数：我国资本市场不大成熟，对此系数的使用有限制</p>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 3.png" alt="Untitled" /></p>
+</li>
+</ul>
+<h2 id="第二节-投资与短期经济增长"> 第二节 投资与短期经济增长</h2>
+<ul>
+<li>
+<p>投资储蓄恒等式：</p>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 4.png" alt="Untitled" /></p>
+</li>
+</ul>
+<p>储蓄的来源：</p>
+<ul>
+<li>
+<p>储蓄结构：</p>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 5.png" alt="Untitled" /></p>
+</li>
+<li>
+<p>居民储蓄与投资：投资的乘数效应</p>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 6.png" alt="Untitled" /></p>
+</li>
+<li>
+<p>企业储蓄</p>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 7.png" alt="Untitled" /></p>
+</li>
+<li>
+<p>政府储蓄</p>
+<p><img src="./投资学 6aa82dd3ce1b4be38add1bbd83ce0940/Untitled 8.png" alt="Untitled" /></p>
+</li>
+<li>
+<p>政府投资案例：应对金融危机一揽子计划：4万亿投资计划。</p>
+<p>大部分投入基础设施建设，相对衰落，产能过剩的产业被投入过多资金。</p>
+<p>负面效应：//产能扩大，需求萎缩。</p>
+<ol>
+<li>各部门债务高企，违约率大大提升</li>
+<li>产能过剩，结构失衡，亟待<strong>供给侧改革</strong></li>
+<li>民营企业倒闭潮，工人失业</li>
+<li>房价飙升，催生一系列民生问题</li>
+</ol>
+</li>
+</ul>
+<h2 id="第三节-投资于长期经济增长"> 第三节 投资于长期经济增长</h2>
+<ul>
+<li>
+<p>索洛模型</p>
+</li>
+<li>
+<p>内生增长模型</p>
+</li>
+<li>
+<p>案例：供给侧改革</p>
+</li>
+</ul>
+<p>进度：<a href="https://www.bilibili.com/video/BV1C4411X7zU?p=6&amp;spm_id_from=pageDriver" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV1C4411X7zU?p=6&amp;spm_id_from=pageDriver</a></p>
+<h1 id="class2"> #Class2</h1>
+<h1 id="class3"> #Class3</h1>
+<h1 id="class4"> #Class4</h1>
+<h1 id="class5"> #Class5</h1>
+<h1 id="class6"> #Class6</h1>
+<h1 id="class7"> #Class7</h1>
+<h1 id="class8"> #Class8</h1>
+<h1 id="class9"> #Class9</h1>
+<h1 id="class10"> #Class10</h1>
+<h1 id="class11"> #Class11</h1>
+<h1 id="class12"> #Class12</h1>
+<h1 id="class13"> #Class13</h1>
+<h1 id="class14"> #Class14</h1>
+<h1 id="class15"> #Class15</h1>
+<h1 id="class16"> #Class16</h1>
+<h1 id="class17"> #Class17</h1>
+<h1 id="class18"> #Class18</h1>
+<h1 id="class19"> #Class19</h1>
+<h1 id="class20"> #Class20</h1>
+<h1 id="class21"> #Class21</h1>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>对娱乐圈文化，我想说的</title>
+      <link>https://www.itxy.tech/vue.github.io/%E9%9A%8F%E7%AC%94/02.to%E5%A8%B1%E4%B9%90%E5%9C%88/</link>
+      <guid>https://www.itxy.tech/vue.github.io/%E9%9A%8F%E7%AC%94/02.to%E5%A8%B1%E4%B9%90%E5%9C%88/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">对娱乐圈文化，我想说的</source>
+      <pubDate>Wed, 26 May 2021 16:25:48 GMT</pubDate>
+      <content:encoded><![CDATA[<p>他们只是失去生命,哥哥失去的可是出道位啊！</p>
+<p>因为这段时间关注新闻热点不太多，所以今天看见这句话后，我感到很恐惧。我很怕这种风气逐渐成为社会的主流，尽管这不大可能，但我们当前的现状却也着实不容乐观。</p>
+<p>我认为一个正常的社会，其对男性的审美应是阳刚的，而当这种对男性的评价标准逐渐阴柔化，整个社会出行了雌雄莫辨的倾向，那么这必然是社会的某一环节出现了问题。</p>
+<p>男性青少年女性化最严重的国家是日本和韩国，这是什么原因？因为他们民族精神当中的雄性基因被阉割了，日本和韩国的畸形审美背后，有一只共同的幕后黑手，就是盎格鲁撒克逊人。</p>
+<p>作为一个主权被阉割的国家，日本本质上就是美国的殖民地，当整个民族的屈辱和痛苦无处释放，就会转而向虚幻的世界当中去寻找慰藉，所以日本的二次元文化极其盛行。韩国的情况与日本大致相同。由于尊严沦丧，所以审美意识当中阳刚的、雄健的、奋进的基因便会逐渐退化，逐渐转向中性和阴柔。</p>
+<p>中性和阴柔本身没什么问题，但是当男性开始普遍以阴柔和女性化为美，那么这个民族的精神状态就开始崩坏。这种崩坏必然从未成年的青少年开始，而摧毁文明最高的手段，就是从他们的未成年人下手。</p>
+<p>而当前大国竞争本质上就是人的竞争，是人口数量和国民素质的竞争，是价值观和意识形态之争，这是一场看不见硝烟的战争，战场在所有中国人，尤其是青少年们的大脑和心灵里。</p>
+<p>所以当前的这种文化是亟待纠正的，雌雄莫辨不该成为主流，甚至不该存在。不要说我的思想跟不上潮流，如果这是潮流，我宁愿归隐山林。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>小镇做题家之死</title>
+      <link>https://www.itxy.tech/vue.github.io/%E9%9A%8F%E7%AC%94/01.%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E4%B9%8B%E6%AD%BB/</link>
+      <guid>https://www.itxy.tech/vue.github.io/%E9%9A%8F%E7%AC%94/01.%E5%B0%8F%E9%95%87%E5%81%9A%E9%A2%98%E5%AE%B6%E4%B9%8B%E6%AD%BB/</guid>
+      <source url="https://www.itxy.tech/vue.github.io/rss.xml">小镇做题家之死</source>
+      <pubDate>Thu, 17 Dec 2020 15:01:16 GMT</pubDate>
+      <content:encoded><![CDATA[<p>又一个大学生自杀了，我已记不清这是今年的第几个了。看着他的遗书，有种悲戚的共鸣。</p>
+<p>他殉身于自身的信仰，一种多数人从小被教育着信奉的信仰。</p>
+<p>我暂且把这叫做学历信仰。</p>
+<p>学历有用吗？很有用。但是我们除了结伙同行与此路上，还追求着什么呢？在这条路上，没有一个人是蝺蝺的独行者。我们结伙，我们幻想远方。</p>
+<p>可是远方是什么？谁能具体的说清楚呢？高收入吗？高地位吗？天伦之乐吗？但是，以上的总总念想，从根本上来说是一种只能存于个人意志中的且只能用以自我激励的卑微的意志。因为以上的这些理想基本上脱离了大多数人赖以成长的个人背景。</p>
+<p>这种个人背景我愿视之为一人在社会中发展的第一条件。可是大多数人从工人阶级中来，大多数人中的极少数人实现突破而成为资产阶级，新生的资产阶级转而背叛他的原有阶级而继续压榨希望成为资产阶级的工人阶级。这种矛盾如此循环往复，以至于，我们最终不得不面临一种可悲而无奈的结局:为着微弱的成为资产阶级的可能性而忍受压榨。</p>
+<p>所以我一直无法理解那些将马云等资本家奉若神明的人。我也一直讨厌身处于这种被资本控制的处境与秩序。但是若这一秩序不复存在，社会只会倒退而绝无进步的可能。因此我们只能眼看着这一巨大的矛盾一路成长，在新的领域、旧的领域无限扩张，渗透进每个人生活的方方面面。直到他们即将完成最终渗透并且进而拥有无与伦比控制力与影响力时候，普通人，也就是广大的工人阶级将只会活的愈加的艰辛。但好在我们的国体又决定了我们大多数普通人不至于活得像西方世界的普通人一样——彻底沦为资本家们可有可无的附庸。</p>
+<p>学历信仰的出发点是好的，为国家的发展提供源源不断的动力。但是这套信仰体系终于在资本家的狂轰滥炸中被弯曲却是谁也没有料到的。这一信仰的提出是为了那么宏伟的国家民族大计，可他的实现却又是那么的被曲解、那么的令人绝望。这一信仰体系的弯曲所带来的结果是更为激烈的内卷，一套内卷的猜疑链在各个学生中间形成：我不知道你卷没，所以我要卷；我不知道你知不知道我在卷，所以我要更加努力地卷。这一逻辑没有错，许多人普通人寄希望于多卷几下就能卷到出头之日，继而实现理想，脱离其工人阶级的属性而成为资本家。</p>
+<p>资本家与各个深信学历信仰的人之间的矛盾一直都存在，只是，时至今日，这一矛盾终于有了开始转换为对抗性矛盾的势头。这一势头只会被扼杀，因为资本家不需要背叛这一信仰的人，也不想这套信仰体系中的人心生反叛的念头。我们也只能眼睁睁的看着资本家继续着他们的压榨，寄希望于国家的行动。</p>
+<p>“这个年轻人死后，他的所有器官被有钱人购买以用来延长寿命，除了他的大脑，因为这一大脑在他们看来就像一个垃圾桶一样，装满了无用的东西。”</p>
+<p>在《历史的终结与最后的人》一书中我看到过一句话: “归根结底，最终使这些强权国家倾塌的关键缺陷是合法性的缺乏——也就是观念层面的危机。合法性不是绝对意义上的正义或正当；它是一个存在于人们的主观认识中的相对概念。一切能够有效运行的政权都必须基于某种合法性原则。” “即使是对最不正义、最残忍的独裁政府而言，合法性也至为关键”</p>
+<p>所以我们的学历信仰也终有倾塌的一天，这一天，读书获取学历的合理性没有了。有钱人通过基因改造而成为了不同于人的物种——超人类。一个人占据了全球99%的财富。超人类杀人就像我们杀狗一样，会有点麻烦，但无足轻重。这是《赡养人类》里的场景。我一直对这一社会的到来持绝对否定的态度。可是现在我开始怀疑了。既然现在的“打工人”们已被资本家压榨的没有人样，那么以后苟活于世而没有工作的普通人在资本家构建的体系中生存又会是怎样一种情景？我不敢想象，只得寄希望于中国能摆脱这一可怕的未来。能吗？中产收入陷阱都摆脱了，这一被假设存在于未来的陷阱或许也可以摆脱吧。</p>
+<p>多数人包括我是无法摆脱这一从小被信仰体系，这一信仰体系因为无数工人阶级的前仆后继而更加牢固。被加固到所有人无力打破的地步。</p>
+<p>我们继续着我们的信仰，为着微弱的成为资产阶级的可能性而忍受压榨。</p>
+<p>殉道者且身殉于他所坚守的道，继道者却仍将在这条道上前仆后继。</p>
+<p>俗人昭昭，我独昏昏。</p>
+<p>俗人察察，我独闷闷。</p>
+]]></content:encoded>
+    </item>
+  </channel>
+</rss>
